@@ -1,2 +1,2 @@
-# DevOps
-Project to learn DevOps
+# LearnDevOps
+Repo to learn DevOps
